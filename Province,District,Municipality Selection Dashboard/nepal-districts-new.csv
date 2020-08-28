@@ -1,0 +1,770 @@
+DISTRICT,PROVINCE,Geometry,Palika,Place,N_ID
+Achham,7,Polygon,Gaunpalika,Bannigadi Jayagadh,bannigadi -jayagadh-achh
+Achham,7,Polygon,Gaunpalika,Chaurpati,chaurpati-achham
+Achham,7,Polygon,Gaunpalika,Dhakari,dhakari-achham
+Achham,7,Polygon,Nagarpalika,Kamalbazar,kamalbazar-achham
+Achham,7,Polygon,national-park,Khaptad National Park,khaptad -national -park-
+Achham,7,Polygon,Nagarpalika,Mangalsen,mangalsen-achham
+Achham,7,Polygon,Gaunpalika,Mellekh,mellekh-achham
+Achham,7,Polygon,Nagarpalika,Panchadewal Binayak,panchadewal -binayak-ach
+Achham,7,Polygon,Gaunpalika,Ramaroshan,ramaroshan-achham
+Achham,7,Polygon,Nagarpalika,Sanphebagar,sanphebagar-achham
+Achham,7,Polygon,Gaunpalika,Turmakhad,turmakhad-achham
+Arghakhanchi,5,Polygon,Nagarpalika,Bhumikasthan,bhumikasthan-arghakhanch
+Arghakhanchi,5,Polygon,Gaunpalika,Chattradev,chattradev-arghakhanchi
+Arghakhanchi,5,Polygon,Gaunpalika,Malarani,malarani-arghakhanchi
+Arghakhanchi,5,Polygon,Gaunpalika,Panini,panini-arghakhanchi
+Arghakhanchi,5,Polygon,Nagarpalika,Sandhikharka,sandhikharka-arghakhanch
+Arghakhanchi,5,Polygon,Nagarpalika,Sitaganga,sitaganga-arghakhanchi
+Baglung,4,Polygon,Gaunpalika,Badigad,badigad-baglung
+Baglung,4,Polygon,Nagarpalika,Baglung,baglung-baglung
+Baglung,4,Polygon,Nagarpalika,Dhorpatan,dhorpatan-baglung
+Baglung,4,Polygon,hungint-reserve,Dhorpatan Hunting Reserve,dhorpatan -hunting -rese
+Baglung,4,Polygon,Nagarpalika,Galkot,galkot-baglung
+Baglung,4,Polygon,Nagarpalika,Jaimuni,jaimuni-baglung
+Baglung,4,Polygon,Gaunpalika,Kathekhola,kathekhola-baglung
+Baglung,4,Polygon,Gaunpalika,Nisikhola,nisikhola-baglung
+Baglung,4,Polygon,Gaunpalika,Tamankhola,tamankhola-baglung
+Baglung,4,Polygon,Gaunpalika,Tarakhola,tarakhola-baglung
+Baglung,4,Polygon,Gaunpalika,Woreng,woreng-baglung
+Baitadi,7,Polygon,Nagarpalika,Dasarathchand,dasarathchand-baitadi
+Baitadi,7,Polygon,Gaunpalika,Dilasaini,dilasaini-baitadi
+Baitadi,7,Polygon,Gaunpalika,Dogadakedar,dogadakedar-baitadi
+Baitadi,7,Polygon,Nagarpalika,Melauli,melauli-baitadi
+Baitadi,7,Polygon,Gaunpalika,Pancheswar,pancheswar-baitadi
+Baitadi,7,Polygon,Nagarpalika,Patan,patan-baitadi
+Baitadi,7,Polygon,Nagarpalika,Purchaudi,purchaudi-baitadi
+Baitadi,7,Polygon,Gaunpalika,Shivanath,shivanath-baitadi
+Baitadi,7,Polygon,Gaunpalika,Sigas,sigas-baitadi
+Baitadi,7,Polygon,Gaunpalika,Surnaya,surnaya-baitadi
+Bajhang,7,Polygon,Gaunpalika,Bithadchir,bithadchir-bajhang
+Bajhang,7,Polygon,Nagarpalika,Bungal,bungal-bajhang
+Bajhang,7,Polygon,Gaunpalika,Chabispathivera,chabispathivera-bajhang
+Bajhang,7,Polygon,Gaunpalika,Durgathali,durgathali-bajhang
+Bajhang,7,Polygon,Nagarpalika,Jayaprithivi,jayaprithivi-bajhang
+Bajhang,7,Polygon,Gaunpalika,Kanda,kanda-bajhang
+Bajhang,7,Polygon,Gaunpalika,Kedarseu,kedarseu-bajhang
+Bajhang,7,Polygon,Gaunpalika,Khaptachhanna,khaptachhanna-bajhang
+Bajhang,7,MultiPolygon,national-park,Khaptad National Park,khaptad -national -park-
+Bajhang,7,Polygon,Gaunpalika,Masta,masta-bajhang
+Bajhang,7,Polygon,Gaunpalika,Surma,surma-bajhang
+Bajhang,7,Polygon,Gaunpalika,Talkot,talkot-bajhang
+Bajhang,7,Polygon,Gaunpalika,Thalara,thalara-bajhang
+Bajura,7,Polygon,Nagarpalika,Badimalika,badimalika-bajura
+Bajura,7,Polygon,Nagarpalika,Budhiganga,budhiganga-bajura
+Bajura,7,Polygon,Nagarpalika,Budhinanda,budhinanda-bajura
+Bajura,7,Polygon,Gaunpalika,Chhededaha,chhededaha-bajura
+Bajura,7,Polygon,Gaunpalika,Gaumul,gaumul-bajura
+Bajura,7,Polygon,Gaunpalika,Himali,himali-bajura
+Bajura,7,Polygon,Gaunpalika,Pandav Ghupa,pandav -ghupa-bajura
+Bajura,7,Polygon,Gaunpalika,Swami Kartik,swami -kartik-bajura
+Bajura,7,Polygon,Nagarpalika,Tribeni,tribeni-bajura
+Banke,5,Polygon,Gaunpalika,Baijanath,baijanath-banke
+Banke,5,Polygon,Gaunpalika,Duduwa,duduwa-banke
+Banke,5,Polygon,Gaunpalika,Janaki,janaki-banke
+Banke,5,Polygon,Gaunpalika,Khajura,khajura-banke
+Banke,5,Polygon,Nagarpalika,Kohalpur,kohalpur-banke
+Banke,5,Polygon,Gaunpalika,Narainapur,narainapur-banke
+Banke,5,Polygon,Upamahanagarpalika,Nepalganj,nepalganj-banke
+Banke,5,Polygon,Gaunpalika,Raptisonari,raptisonari-banke
+Bara,2,Polygon,Gaunpalika,Adarshkotwal,adarshkotwal-bara
+Bara,2,Polygon,Gaunpalika,Baragadhi,baragadhi-bara
+Bara,2,Polygon,Gaunpalika,Devtal,devtal-bara
+Bara,2,Polygon,Upamahanagarpalika,Jitpur Simara,jitpur -simara-bara
+Bara,2,Polygon,Upamahanagarpalika,Kaliya,kaliya-bara
+Bara,2,Polygon,Gaunpalika,Karaiyamai,karaiyamai-bara
+Bara,2,MultiPolygon,Gaunpalika,Kolhabi,kolhabi-bara
+Bara,2,Polygon,Nagarpalika,Mahagadhimai,mahagadhimai-bara
+Bara,2,Polygon,Nagarpalika,Nijgadh,nijgadh-bara
+Bara,2,Polygon,Gaunpalika,Pacharauta,pacharauta-bara
+Bara,2,Polygon,Gaunpalika,Parwanipur,parwanipur-bara
+Bara,2,Polygon,Gaunpalika,Pheta,pheta-bara
+Bara,2,Polygon,Gaunpalika,Prasauni,prasauni-bara
+Bara,2,Polygon,Nagarpalika,Simraungadh,simraungadh-bara
+Bara,2,Polygon,Gaunpalika,Suwarna,suwarna-bara
+Bardiya,5,Polygon,Gaunpalika,Badhaiyatal,badhaiyatal-bardiya
+Bardiya,5,Polygon,Nagarpalika,Bansagadhi,bansagadhi-bardiya
+Bardiya,5,Polygon,Nagarpalika,Bansagadhi,bansagadhi-bardiya
+Bardiya,5,Polygon,Nagarpalika,Barbardiya,barbardiya-bardiya
+Bardiya,5,Polygon,national-park,Bardiya,bardiya-bardiya
+Bardiya,5,Polygon,Gaunpalika,Geruwa,geruwa-bardiya
+Bardiya,5,Polygon,Nagarpalika,Gulariya,gulariya-bardiya
+Bardiya,5,Polygon,Nagarpalika,Madhuwan,madhuwan-bardiya
+Bardiya,5,Polygon,Nagarpalika,Rajapur,rajapur-bardiya
+Bardiya,5,Polygon,Nagarpalika,Thakurbaba,thakurbaba-bardiya
+Bhaktapur,3,Polygon,Nagarpalika,Bhaktapur,bhaktapur-bhaktapur
+Bhaktapur,3,Polygon,Nagarpalika,Changunarayan,changunarayan-bhaktapur
+Bhaktapur,3,Polygon,Nagarpalika,Madhyapur Thimi,madhyapur -thimi-bhaktap
+Bhaktapur,3,Polygon,Nagarpalika,Suryabinayak,suryabinayak-bhaktapur
+Bhojpur,1,Polygon,Gaunpalika,Aamchowk,aamchowk-bhojpur
+Bhojpur,1,Polygon,Gaunpalika,Arun,arun-bhojpur
+Bhojpur,1,Polygon,Nagarpalika,Bhojpur,bhojpur-bhojpur
+Bhojpur,1,Polygon,Gaunpalika,Hatuwagadhi,hatuwagadhi-bhojpur
+Bhojpur,1,Polygon,Gaunpalika,Pauwadungma,pauwadungma-bhojpur
+Bhojpur,1,Polygon,Gaunpalika,Ramprasad Rai,ramprasad -rai-bhojpur
+Bhojpur,1,Polygon,Gaunpalika,Salpasilichho,salpasilichho-bhojpur
+Bhojpur,1,Polygon,Nagarpalika,Shadananda,shadananda-bhojpur
+Bhojpur,1,Polygon,Gaunpalika,Tyamkemaiyung,tyamkemaiyung-bhojpur
+Chitwan,3,Polygon,Mahanagarpalika,Bharatpur,bharatpur-chitwan
+Chitwan,3,Polygon,national-park,Chitwan National Park,chitwan -national -park-
+Chitwan,3,Polygon,Gaunpalika,Ichchhyakamana,ichchhyakamana-chitwan
+Chitwan,3,Polygon,Nagarpalika,Kalika,kalika-chitwan
+Chitwan,3,Polygon,Nagarpalika,Khairahani,khairahani-chitwan
+Chitwan,3,Polygon,Nagarpalika,Madi,madi-chitwan
+Chitwan,3,Polygon,Nagarpalika,Rapti,rapti-chitwan
+Chitwan,3,Polygon,Nagarpalika,Ratnanagar,ratnanagar-chitwan
+Dadeldhura,7,Polygon,Gaunpalika,Ajaymeru,ajaymeru-dadeldhura
+Dadeldhura,7,Polygon,Gaunpalika,Alital,alital-dadeldhura
+Dadeldhura,7,Polygon,Nagarpalika,Amargadhi,amargadhi-dadeldhura
+Dadeldhura,7,Polygon,Gaunpalika,Bhageshwar,bhageshwar-dadeldhura
+Dadeldhura,7,Polygon,Gaunpalika,Ganyapadhura,ganyapadhura-dadeldhura
+Dadeldhura,7,Polygon,Gaunpalika,Nawadurga,nawadurga-dadeldhura
+Dadeldhura,7,Polygon,Nagarpalika,Parashuram,parashuram-dadeldhura
+Dailekh,6,Polygon,Nagarpalika,Aathbis Nagarpalika,aathbis -nagarpalika-dai
+Dailekh,6,Polygon,Gaunpalika,Bhagawatimai,bhagawatimai-dailekh
+Dailekh,6,Polygon,Gaunpalika,Bhairabi,bhairabi-dailekh
+Dailekh,6,Polygon,Nagarpalika,Chamunda Bindrasaini,chamunda -bindrasaini-da
+Dailekh,6,Polygon,Nagarpalika,Dullu,dullu-dailekh
+Dailekh,6,Polygon,Gaunpalika,Dungeshwor,dungeshwor-dailekh
+Dailekh,6,Polygon,Gaunpalika,Gurans,gurans-dailekh
+Dailekh,6,Polygon,Gaunpalika,Mahabu,mahabu-dailekh
+Dailekh,6,Polygon,Nagarpalika,Narayan,narayan-dailekh
+Dailekh,6,Polygon,Gaunpalika,Naumule,naumule-dailekh
+Dailekh,6,Polygon,Gaunpalika,Thantikandh Gaunpalika,thantikandh -gaunpalika-
+Dang,5,Polygon,Gaunpalika,Babai,babai-dang
+Dang,5,Polygon,Gaunpalika,Banglachuli,banglachuli-dang
+Dang,5,Polygon,Gaunpalika,Dangisharan,dangisharan-dang
+Dang,5,Polygon,Gaunpalika,Gadwa,gadwa-dang
+Dang,5,Polygon,Upamahanagarpalika,Ghorahi,ghorahi-dang
+Dang,5,Polygon,Nagarpalika,Lamhi,lamhi-dang
+Dang,5,Polygon,Gaunpalika,Rajpur,rajpur-dang
+Dang,5,Polygon,Gaunpalika,Rapti,rapti-dang
+Dang,5,Polygon,Gaunpalika,Shantinagar,shantinagar-dang
+Dang,5,Polygon,Upamahanagarpalika,Tulsipur,tulsipur-dang
+Darchula,7,Polygon,Gaunpalika,Apihimal,apihimal-darchula
+Darchula,7,Polygon,Gaunpalika,Byas,byas-darchula
+Darchula,7,Polygon,Gaunpalika,Dunhu,dunhu-darchula
+Darchula,7,Polygon,Gaunpalika,Lekam,lekam-darchula
+Darchula,7,Polygon,Nagarpalika,Mahakali,mahakali-darchula
+Darchula,7,Polygon,Nagarpalika,Malikarjun,malikarjun-darchula
+Darchula,7,Polygon,Gaunpalika,Marma,marma-darchula
+Darchula,7,Polygon,Gaunpalika,Naugad,naugad-darchula
+Darchula,7,Polygon,Nagarpalika,Shailyashikhar,shailyashikhar-darchula
+Dhading,3,Polygon,Gaunpalika,Benighat Rorang,benighat -rorang-dhading
+Dhading,3,Polygon,Nagarpalika,Dhunibesi,dhunibesi-dhading
+Dhading,3,Polygon,Gaunpalika,Gajuri,gajuri-dhading
+Dhading,3,Polygon,Gaunpalika,Galchi,galchi-dhading
+Dhading,3,Polygon,Gaunpalika,Gangajamuna,gangajamuna-dhading
+Dhading,3,Polygon,Gaunpalika,Jwalamukhi,jwalamukhi-dhading
+Dhading,3,Polygon,Gaunpalika,Khaniyabas,khaniyabas-dhading
+Dhading,3,Polygon,Gaunpalika,Netrawati,netrawati-dhading
+Dhading,3,Polygon,Nagarpalika,Nilkantha,nilkantha-dhading
+Dhading,3,Polygon,Gaunpalika,Rubi Valley,rubi -valley-dhading
+Dhading,3,Polygon,Gaunpalika,Siddhalek,siddhalek-dhading
+Dhading,3,Polygon,Gaunpalika,Thakre,thakre-dhading
+Dhading,3,Polygon,Gaunpalika,Tripurasundari,tripurasundari-dhading
+Dhankuta,1,Polygon,Gaunpalika,Chaubise,chaubise-dhankuta
+Dhankuta,1,Polygon,Gaunpalika,Chhathar Jorpati,chhathar -jorpati-dhanku
+Dhankuta,1,Polygon,Nagarpalika,Dhankuta,dhankuta-dhankuta
+Dhankuta,1,Polygon,Gaunpalika,Khalsa Chhintang Shahidbhumi,khalsa -chhintang -shahi
+Dhankuta,1,Polygon,Nagarpalika,Mahalaxmi,mahalaxmi-dhankuta
+Dhankuta,1,Polygon,Nagarpalika,Pakhribas,pakhribas-dhankuta
+Dhankuta,1,Polygon,Gaunpalika,Sagurigadhi,sagurigadhi-dhankuta
+Dhanusa,2,Polygon,Gaunpalika,Aaurahi,aaurahi-dhanusa
+Dhanusa,2,MultiPolygon,Gaunpalika,Bateshwor,bateshwor-dhanusa
+Dhanusa,2,Polygon,Nagarpalika,Bideha,bideha-dhanusa
+Dhanusa,2,Polygon,Nagarpalika,Chhireshwornath,chhireshwornath-dhanusa
+Dhanusa,2,Polygon,Gaunpalika,Dhanusadham,dhanusadham-dhanusa
+Dhanusa,2,Polygon,Nagarpalika,Ganeshman Charnath,ganeshman -charnath-dhan
+Dhanusa,2,Polygon,Gaunpalika,Hansapur Kathapulla,hansapur -kathapulla-dha
+Dhanusa,2,Polygon,Gaunpalika,Janaknandani,janaknandani-dhanusa
+Dhanusa,2,Polygon,Upamahanagarpalika,Janakpur,janakpur-dhanusa
+Dhanusa,2,Polygon,Gaunpalika,Kamala Siddhidatri,kamala -siddhidatri-dhan
+Dhanusa,2,Polygon,Gaunpalika,Lakshminiya,lakshminiya-dhanusa
+Dhanusa,2,Polygon,Nagarpalika,Mithila,mithila-dhanusa
+Dhanusa,2,Polygon,Gaunpalika,Mithila Bihari,mithila -bihari-dhanusa
+Dhanusa,2,Polygon,Gaunpalika,Mukhiyapatti Musarmiya,mukhiyapatti -musarmiya-
+Dhanusa,2,Polygon,Nagarpalika,Nagarain,nagarain-dhanusa
+Dhanusa,2,Polygon,Nagarpalika,Sabaila,sabaila-dhanusa
+Dhanusa,2,Polygon,Nagarpalika,Sahidnagar,sahidnagar-dhanusa
+Dolakha,3,Polygon,Gaunpalika,Baiteshwor,baiteshwor-dolakha
+Dolakha,3,Polygon,Nagarpalika,Bhimeshwor,bhimeshwor-dolakha
+Dolakha,3,Polygon,Gaunpalika,Bigu,bigu-dolakha
+Dolakha,3,Polygon,Gaunpalika,Gaurishankar,gaurishankar-dolakha
+Dolakha,3,Polygon,Nagarpalika,Jiri,jiri-dolakha
+Dolakha,3,Polygon,Gaunpalika,Kalinchok,kalinchok-dolakha
+Dolakha,3,Polygon,Gaunpalika,Melung,melung-dolakha
+Dolakha,3,Polygon,Gaunpalika,Sailung,sailung-dolakha
+Dolakha,3,Polygon,Gaunpalika,Tamakoshi,tamakoshi-dolakha
+Dolpa,6,Polygon,Gaunpalika,Chharka Tangsong,chharka -tangsong-dolpa
+Dolpa,6,Polygon,Gaunpalika,Dolpo Buddha,dolpo -buddha-dolpa
+Dolpa,6,Polygon,Gaunpalika,Jagadulla,jagadulla-dolpa
+Dolpa,6,Polygon,Gaunpalika,Kaike,kaike-dolpa
+Dolpa,6,Polygon,Gaunpalika,Mudkechula,mudkechula-dolpa
+Dolpa,6,Polygon,Gaunpalika,She Foksundo,she -foksundo-dolpa
+Dolpa,6,Polygon,Nagarpalika,Thuli Bheri,thuli -bheri-dolpa
+Dolpa,6,Polygon,Nagarpalika,Tripurasundari,tripurasundari-dolpa
+Doti,7,Polygon,Gaunpalika,Adharsha,adharsha-doti
+Doti,7,Polygon,Gaunpalika,Badikedar,badikedar-doti
+Doti,7,Polygon,Gaunpalika,Bogtan,bogtan-doti
+Doti,7,Polygon,Nagarpalika,Dipayal Silgadi,dipayal -silgadi-doti
+Doti,7,Polygon,Gaunpalika,Jorayal,jorayal-doti
+Doti,7,Polygon,Gaunpalika,k i Singh,k -i -singh-doti
+Doti,7,Polygon,national-park,Khaptad National Park,khaptad -national -park-
+Doti,7,Polygon,Gaunpalika,Purbichauki,purbichauki-doti
+Doti,7,Polygon,Gaunpalika,Sayal,sayal-doti
+Doti,7,Polygon,Nagarpalika,Shikhar,shikhar-doti
+Gorkha,4,Polygon,Gaunpalika,Aarughat,aarughat-gorkha
+Gorkha,4,Polygon,Gaunpalika,Ajirkot,ajirkot-gorkha
+Gorkha,4,Polygon,Gaunpalika,Bhimsen,bhimsen-gorkha
+Gorkha,4,Polygon,Gaunpalika,Chumnuwri,chumnuwri-gorkha
+Gorkha,4,Polygon,Gaunpalika,Dharche,dharche-gorkha
+Gorkha,4,Polygon,Gaunpalika,Gandaki,gandaki-gorkha
+Gorkha,4,Polygon,Nagarpalika,Gorkha,gorkha-gorkha
+Gorkha,4,Polygon,Nagarpalika,Palungtar,palungtar-gorkha
+Gorkha,4,Polygon,Gaunpalika,Sahid Lakhan,sahid -lakhan-gorkha
+Gorkha,4,Polygon,Gaunpalika,Siranchok,siranchok-gorkha
+Gorkha,4,Polygon,Gaunpalika,Sulikot,sulikot-gorkha
+Gulmi,5,Polygon,Gaunpalika,Chandrakot,chandrakot-gulmi
+Gulmi,5,Polygon,Gaunpalika,Chatrakot,chatrakot-gulmi
+Gulmi,5,Polygon,Gaunpalika,Dhurkot,dhurkot-gulmi
+Gulmi,5,Polygon,Gaunpalika,Gulmidarbar,gulmidarbar-gulmi
+Gulmi,5,Polygon,Gaunpalika,Isma,isma-gulmi
+Gulmi,5,Polygon,Gaunpalika,Kaligandaki,kaligandaki-gulmi
+Gulmi,5,Polygon,Gaunpalika,Madane,madane-gulmi
+Gulmi,5,Polygon,Gaunpalika,Malika,malika-gulmi
+Gulmi,5,Polygon,Nagarpalika,Musikot,musikot-gulmi
+Gulmi,5,Polygon,Nagarpalika,Resunga,resunga-gulmi
+Gulmi,5,Polygon,Gaunpalika,Ruru,ruru-gulmi
+Gulmi,5,Polygon,Gaunpalika,Satyawati,satyawati-gulmi
+Humla,6,Polygon,Gaunpalika,Adanchuli,adanchuli-humla
+Humla,6,Polygon,Gaunpalika,Chankheli,chankheli-humla
+Humla,6,Polygon,Gaunpalika,Kharpunath,kharpunath-humla
+Humla,6,Polygon,Gaunpalika,Namkha,namkha-humla
+Humla,6,Polygon,Gaunpalika,Sarkegad,sarkegad-humla
+Humla,6,Polygon,Gaunpalika,Simkot,simkot-humla
+Humla,6,Polygon,Gaunpalika,Tanjakot,tanjakot-humla
+Ilam,1,Polygon,Gaunpalika,Chulachuli,chulachuli-ilam
+Ilam,1,Polygon,Nagarpalika,Deumai,deumai-ilam
+Ilam,1,Polygon,Gaunpalika,Fakphokthum,fakphokthum-ilam
+Ilam,1,Polygon,Nagarpalika,Ilam,ilam-ilam
+Ilam,1,Polygon,Nagarpalika,Mai,mai-ilam
+Ilam,1,Polygon,Gaunpalika,Maijogmai,maijogmai-ilam
+Ilam,1,Polygon,Gaunpalika,Mangsebung,mangsebung-ilam
+Ilam,1,Polygon,Gaunpalika,Rong,rong-ilam
+Ilam,1,Polygon,Gaunpalika,Sandakpur,sandakpur-ilam
+Ilam,1,Polygon,Nagarpalika,Suryodaya,suryodaya-ilam
+Jajarkot,6,Polygon,Gaunpalika,Barekot Gaunpalika,barekot -gaunpalika-jaja
+Jajarkot,6,Polygon,Nagarpalika,Bheri,bheri-jajarkot
+Jajarkot,6,Polygon,Nagarpalika,Chhedagad,chhedagad-jajarkot
+Jajarkot,6,Polygon,Gaunpalika,Junichande,junichande-jajarkot
+Jajarkot,6,Polygon,Gaunpalika,Kuse,kuse-jajarkot
+Jajarkot,6,Polygon,Gaunpalika,Shiwalaya,shiwalaya-jajarkot
+Jajarkot,6,Polygon,Nagarpalika,Tribeni Nalagad,tribeni -nalagad-jajarko
+Jhapa,1,Polygon,Nagarpalika,Arjundhara,arjundhara-jhapa
+Jhapa,1,Polygon,Nagarpalika,Bhadrapur,bhadrapur-jhapa
+Jhapa,1,Polygon,Nagarpalika,Birtamod,birtamod-jhapa
+Jhapa,1,Polygon,Gaunpalika,Buddhashanti,buddhashanti-jhapa
+Jhapa,1,Polygon,Nagarpalika,Damak,damak-jhapa
+Jhapa,1,Polygon,Gaunpalika,Garhadashi,garhadashi-jhapa
+Jhapa,1,Polygon,Nagarpalika,Gauradhaha,gauradhaha-jhapa
+Jhapa,1,Polygon,Gaunpalika,Gauriganj,gauriganj-jhapa
+Jhapa,1,Polygon,Gaunpalika,Haldibari,haldibari-jhapa
+Jhapa,1,Polygon,Gaunpalika,Jhapa,jhapa-jhapa
+Jhapa,1,Polygon,Gaunpalika,Kachankawal,kachankawal-jhapa
+Jhapa,1,Polygon,Gaunpalika,Kamal,kamal-jhapa
+Jhapa,1,Polygon,Gaunpalika,Kankai,kankai-jhapa
+Jhapa,1,Polygon,Nagarpalika,Mechinagar,mechinagar-jhapa
+Jhapa,1,Polygon,Nagarpalika,Shivasataxi,shivasataxi-jhapa
+Jumla,6,Polygon,Nagarpalika,Chandannath,chandannath-jumla
+Jumla,6,Polygon,Gaunpalika,Guthichaur,guthichaur-jumla
+Jumla,6,Polygon,Gaunpalika,Hima,hima-jumla
+Jumla,6,Polygon,Gaunpalika,Kankasundari Gaunpalika,kankasundari -gaunpalika
+Jumla,6,Polygon,Gaunpalika,Patarasi,patarasi-jumla
+Jumla,6,Polygon,Gaunpalika,Sinja,sinja-jumla
+Jumla,6,Polygon,Gaunpalika,Tatopani,tatopani-jumla
+Jumla,6,Polygon,Gaunpalika,Tatopani,tatopani-jumla
+Kailali,7,Polygon,Gaunpalika,Bardagariya,bardagariya-kailali
+Kailali,7,Polygon,Nagarpalika,Bhajani,bhajani-kailali
+Kailali,7,Polygon,Gaunpalika,Chure,chure-kailali
+Kailali,7,Polygon,Upamahanagarpalika,Dhangadhi,dhangadhi-kailali
+Kailali,7,Polygon,Nagarpalika,Gadawari,gadawari-kailali
+Kailali,7,Polygon,Nagarpalika,Gauriganga,gauriganga-kailali
+Kailali,7,Polygon,Nagarpalika,Ghodaghodi,ghodaghodi-kailali
+Kailali,7,Polygon,Gaunpalika,Janaki,janaki-kailali
+Kailali,7,Polygon,Gaunpalika,Joshipur,joshipur-kailali
+Kailali,7,Polygon,Gaunpalika,Kailari,kailari-kailali
+Kailali,7,Polygon,Nagarpalika,Karnali,karnali-kailali
+Kailali,7,Polygon,Gaunpalika,Mohanyal,mohanyal-kailali
+Kailali,7,Polygon,Nagarpalika,Tikapur,tikapur-kailali
+Kalikot,6,Polygon,Gaunpalika,Kalika,kalika-kalikot
+Kalikot,6,Polygon,Nagarpalika,Khandachakra,khandachakra-kalikot
+Kalikot,6,Polygon,Gaunpalika,Mahawai,mahawai-kalikot
+Kalikot,6,Polygon,Gaunpalika,Naraharinath,naraharinath-kalikot
+Kalikot,6,Polygon,Gaunpalika,Pachaljharana,pachaljharana-kalikot
+Kalikot,6,Polygon,Gaunpalika,Palata,palata-kalikot
+Kalikot,6,Polygon,Nagarpalika,Raskot,raskot-kalikot
+Kalikot,6,Polygon,Gaunpalika,Sanni Tribeni,sanni -tribeni-kalikot
+Kalikot,6,Polygon,Nagarpalika,Tilagufa,tilagufa-kalikot
+Kanchanpur,7,Polygon,Nagarpalika,Bedkot,bedkot-kanchanpur
+Kanchanpur,7,Polygon,Nagarpalika,Belauri,belauri-kanchanpur
+Kanchanpur,7,Polygon,Gaunpalika,Beldandi,beldandi-kanchanpur
+Kanchanpur,7,Polygon,Nagarpalika,Bhimdatta,bhimdatta-kanchanpur
+Kanchanpur,7,Polygon,Nagarpalika,Krishnapur,krishnapur-kanchanpur
+Kanchanpur,7,Polygon,Gaunpalika,Laljhadi,laljhadi-kanchanpur
+Kanchanpur,7,Polygon,Nagarpalika,Mahakali,mahakali-kanchanpur
+Kanchanpur,7,Polygon,Nagarpalika,Punarbas,punarbas-kanchanpur
+Kanchanpur,7,Polygon,wildlife-reserve,Suklaphat,suklaphat-kanchanpur
+Kanchanpur,7,Polygon,Nagarpalika,Suklaphata,suklaphata-kanchanpur
+Kapilbastu,5,Polygon,Nagarpalika,Banganga,banganga-kapilbastu
+Kapilbastu,5,Polygon,Gaunpalika,Bijayanagar,bijayanagar-kapilbastu
+Kapilbastu,5,Polygon,Nagarpalika,Buddhabhumi,buddhabhumi-kapilbastu
+Kapilbastu,5,Polygon,Nagarpalika,Kapilvastu,kapilvastu-kapilbastu
+Kapilbastu,5,Polygon,Nagarpalika,Krishnanagar,krishnanagar-kapilbastu
+Kapilbastu,5,Polygon,Nagarpalika,Maharajgunj,maharajgunj-kapilbastu
+Kapilbastu,5,Polygon,Gaunpalika,Mayadevi,mayadevi-kapilbastu
+Kapilbastu,5,Polygon,Nagarpalika,Shivraj,shivraj-kapilbastu
+Kapilbastu,5,Polygon,Gaunpalika,Suddhodhan,suddhodhan-kapilbastu
+Kapilbastu,5,Polygon,Gaunpalika,Yashodhara,yashodhara-kapilbastu
+Kaski,4,Polygon,Gaunpalika,Annapurna,annapurna-kaski
+Kaski,4,Polygon,Gaunpalika,Machhapuchchhre,machhapuchchhre-kaski
+Kaski,4,Polygon,Gaunpalika,Madi,madi-kaski
+Kaski,4,Polygon,Mahanagarpalika,Pokhara Lekhnath,pokhara -lekhnath-kaski
+Kaski,4,Polygon,Gaunpalika,Rupa,rupa-kaski
+Kathmandu,3,Polygon,Nagarpalika,Budhanilakantha,budhanilakantha-kathmand
+Kathmandu,3,Polygon,Nagarpalika,Chandragiri,chandragiri-kathmandu
+Kathmandu,3,Polygon,Nagarpalika,Dakshinkali,dakshinkali-kathmandu
+Kathmandu,3,Polygon,Nagarpalika,Gokarneshwor,gokarneshwor-kathmandu
+Kathmandu,3,Polygon,Nagarpalika,Kageshwori Manahora,kageshwori -manahora-kat
+Kathmandu,3,Polygon,Mahanagarpalika,Kathmandu,kathmandu-kathmandu
+Kathmandu,3,Polygon,Nagarpalika,Kirtipur,kirtipur-kathmandu
+Kathmandu,3,Polygon,Nagarpalika,Nagarjun,nagarjun-kathmandu
+Kathmandu,3,Polygon,Nagarpalika,Shankharapur,shankharapur-kathmandu
+Kathmandu,3,Polygon,Nagarpalika,Tarakeshwor,tarakeshwor-kathmandu
+Kathmandu,3,Polygon,Nagarpalika,Tokha,tokha-kathmandu
+Kavrepalanchok,3,Polygon,Nagarpalika,Banepa,banepa-kavrepalanchok
+Kavrepalanchok,3,Polygon,Gaunpalika,Bethanchowk,bethanchowk-kavrepalanch
+Kavrepalanchok,3,Polygon,Gaunpalika,Bhumlu,bhumlu-kavrepalanchok
+Kavrepalanchok,3,Polygon,Gaunpalika,Chaurideurali,chaurideurali-kavrepalan
+Kavrepalanchok,3,Polygon,Nagarpalika,Dhulikhel,dhulikhel-kavrepalanchok
+Kavrepalanchok,3,Polygon,Gaunpalika,Khanikhola,khanikhola-kavrepalancho
+Kavrepalanchok,3,Polygon,Gaunpalika,Mahabharat,mahabharat-kavrepalancho
+Kavrepalanchok,3,Polygon,Nagarpalika,Mandandeupur,mandandeupur-kavrepalanc
+Kavrepalanchok,3,Polygon,Nagarpalika,Namobuddha,namobuddha-kavrepalancho
+Kavrepalanchok,3,Polygon,Nagarpalika,Panauti,panauti-kavrepalanchok
+Kavrepalanchok,3,Polygon,Nagarpalika,Panchkhal,panchkhal-kavrepalanchok
+Kavrepalanchok,3,Polygon,Gaunpalika,Roshi,roshi-kavrepalanchok
+Kavrepalanchok,3,Polygon,Gaunpalika,Temal,temal-kavrepalanchok
+Khotang,1,Polygon,Gaunpalika,Ainselukharka,ainselukharka-khotang
+Khotang,1,Polygon,Gaunpalika,Barahapokhari,barahapokhari-khotang
+Khotang,1,Polygon,Gaunpalika,Diprung,diprung-khotang
+Khotang,1,Polygon,Nagarpalika,Halesi Tuwachung,halesi -tuwachung-khotan
+Khotang,1,Polygon,Gaunpalika,Jantedhunga,jantedhunga-khotang
+Khotang,1,Polygon,Gaunpalika,Kepilasgadhi,kepilasgadhi-khotang
+Khotang,1,Polygon,Gaunpalika,Khotehang,khotehang-khotang
+Khotang,1,Polygon,Gaunpalika,Lamidanda,lamidanda-khotang
+Khotang,1,Polygon,Nagarpalika,Rupakot Majhuwagadhi,rupakot -majhuwagadhi-kh
+Khotang,1,Polygon,Gaunpalika,Sakela,sakela-khotang
+Lalitpur,3,Polygon,Gaunpalika,Bagmati,bagmati-lalitpur
+Lalitpur,3,Polygon,Nagarpalika,Godawari,godawari-lalitpur
+Lalitpur,3,Polygon,Gaunpalika,Konjyosom,konjyosom-lalitpur
+Lalitpur,3,Polygon,maha Nagarpalika,Lalitpur,lalitpur-lalitpur
+Lalitpur,3,Polygon,Nagarpalika,Mahalaxmi,mahalaxmi-lalitpur
+Lalitpur,3,Polygon,Gaunpalika,Mahankal,mahankal-lalitpur
+Lamjung,4,Polygon,Nagarpalika,Besishahar,besishahar-lamjung
+Lamjung,4,Polygon,Gaunpalika,Dordi,dordi-lamjung
+Lamjung,4,Polygon,Gaunpalika,Dudhpokhar,dudhpokhar-lamjung
+Lamjung,4,Polygon,Gaunpalika,Kwholasothar,kwholasothar-lamjung
+Lamjung,4,Polygon,Nagarpalika,Madhyanepal,madhyanepal-lamjung
+Lamjung,4,Polygon,Gaunpalika,Marsyangdi Gaunpalika,marsyangdi -gaunpalika-l
+Lamjung,4,Polygon,Nagarpalika,Rainas,rainas-lamjung
+Lamjung,4,Polygon,Nagarpalika,Sundarbazar,sundarbazar-lamjung
+Mahottari,2,Polygon,Gaunpalika,Aurahi,aurahi-mahottari
+Mahottari,2,Polygon,Gaunpalika,Balwa,balwa-mahottari
+Mahottari,2,Polygon,Nagarpalika,Bardibas,bardibas-mahottari
+Mahottari,2,Polygon,Gaunpalika,Bhangaha,bhangaha-mahottari
+Mahottari,2,Polygon,Gaunpalika,Ekdanra,ekdanra-mahottari
+Mahottari,2,Polygon,Nagarpalika,Gaushala,gaushala-mahottari
+Mahottari,2,Polygon,Nagarpalika,Jaleswor,jaleswor-mahottari
+Mahottari,2,Polygon,Gaunpalika,Loharpatti,loharpatti-mahottari
+Mahottari,2,Polygon,Gaunpalika,Mahottari,mahottari-mahottari
+Mahottari,2,Polygon,Gaunpalika,Manra,manra-mahottari
+Mahottari,2,Polygon,Gaunpalika,Matihani,matihani-mahottari
+Mahottari,2,Polygon,Gaunpalika,Pipra,pipra-mahottari
+Mahottari,2,Polygon,Gaunpalika,Ramgopalpur,ramgopalpur-mahottari
+Mahottari,2,Polygon,Gaunpalika,Samsi,samsi-mahottari
+Mahottari,2,Polygon,Gaunpalika,Sonama,sonama-mahottari
+Makwanpur,3,Polygon,Gaunpalika,Bagmati,bagmati-makwanpur
+Makwanpur,3,Polygon,Gaunpalika,Bakaiya,bakaiya-makwanpur
+Makwanpur,3,Polygon,Gaunpalika,Bhimphedi,bhimphedi-makwanpur
+Makwanpur,3,Polygon,national-park,Chitwan National Park,chitwan -national -park-
+Makwanpur,3,Polygon,Upamahanagarpalika,Hetauda,hetauda-makwanpur
+Makwanpur,3,Polygon,Gaunpalika,Indrasarawor,indrasarawor-makwanpur
+Makwanpur,3,Polygon,Gaunpalika,Kailash,kailash-makwanpur
+Makwanpur,3,Polygon,Gaunpalika,Makwanpurgadhi,makwanpurgadhi-makwanpur
+Makwanpur,3,Polygon,Gaunpalika,Manahari,manahari-makwanpur
+Makwanpur,3,Polygon,wildlife-reserve,Parsa Wildlife Reserve,parsa -wildlife -reserve
+Makwanpur,3,Polygon,Gaunpalika,Rakshirang,rakshirang-makwanpur
+Makwanpur,3,Polygon,Nagarpalika,Thaha,thaha-makwanpur
+Manag,4,Polygon,Gaunpalika,Chame,chame-manag
+Manag,4,Polygon,Gaunpalika,Narphu,narphu-manag
+Manag,4,Polygon,Gaunpalika,Nashong,nashong-manag
+Manag,4,Polygon,Gaunpalika,Neshang,neshang-manag
+Morang,1,Polygon,Nagarpalika,Belbari,belbari-morang
+Morang,1,Polygon,Upamahanagarpalika,Biratnagar,biratnagar-morang
+Morang,1,Polygon,Gaunpalika,Budhiganga,budhiganga-morang
+Morang,1,Polygon,Gaunpalika,Dhanpalthan,dhanpalthan-morang
+Morang,1,Polygon,Gaunpalika,Gramthan,gramthan-morang
+Morang,1,Polygon,Gaunpalika,Jahada,jahada-morang
+Morang,1,Polygon,Gaunpalika,Kanepokhari,kanepokhari-morang
+Morang,1,Polygon,Gaunpalika,Katahari,katahari-morang
+Morang,1,Polygon,Gaunpalika,Kerabari,kerabari-morang
+Morang,1,Polygon,Nagarpalika,Letang,letang-morang
+Morang,1,Polygon,Gaunpalika,Miklajunga,miklajunga-morang
+Morang,1,Polygon,Nagarpalika,Pathrisanishchare,pathrisanishchare-morang
+Morang,1,Polygon,Nagarpalika,Rangeli,rangeli-morang
+Morang,1,Polygon,Nagarpalika,Ratuwamai,ratuwamai-morang
+Morang,1,Polygon,Nagarpalika,Sunawarshi,sunawarshi-morang
+Morang,1,Polygon,Nagarpalika,Sundarharicha,sundarharicha-morang
+Morang,1,Polygon,Nagarpalika,Uralabari,uralabari-morang
+Mugu,6,Polygon,Nagarpalika,Chhayanath Rara,chhayanath -rara-mugu
+Mugu,6,Polygon,Gaunpalika,Khatyad,khatyad-mugu
+Mugu,6,Polygon,Gaunpalika,Mugum Karmarong,mugum -karmarong-mugu
+Mugu,6,Polygon,Gaunpalika,Soru,soru-mugu
+Mustang,4,Polygon,Gaunpalika,Barhagaun Muktichhetra,barhagaun -muktichhetra-
+Mustang,4,Polygon,Gaunpalika,Dalome,dalome-mustang
+Mustang,4,Polygon,Gaunpalika,Gharapjhong,gharapjhong-mustang
+Mustang,4,Polygon,Gaunpalika,Lomanthang,lomanthang-mustang
+Mustang,4,Polygon,Gaunpalika,Thasang,thasang-mustang
+Myagdi,4,Polygon,Gaunpalika,Annapurna,annapurna-myagdi
+Myagdi,4,Polygon,Nagarpalika,Beni,beni-myagdi
+Myagdi,4,Polygon,Gaunpalika,Dhawalagiri Gaunpalika,dhawalagiri -gaunpalika-
+Myagdi,4,Polygon,hunting-reserve,Dhorpatan Hunting Reserve,dhorpatan -hunting -rese
+Myagdi,4,Polygon,Gaunpalika,Malika,malika-myagdi
+Myagdi,4,Polygon,Gaunpalika,Mangala,mangala-myagdi
+Myagdi,4,Polygon,Gaunpalika,Raghuganga,raghuganga-myagdi
+Nawalparasi,5,Polygon,Nagarpalika,Bardaghat,bardaghat-nawalparasi
+Nawalparasi,5,Polygon,Gaunpalika,Binayee,binayee-nawalparasi
+Nawalparasi,5,Polygon,Gaunpalika,Bulingtar,bulingtar-nawalparasi
+Nawalparasi,5,Polygon,Gaunpalika,Bungdikali,bungdikali-nawalparasi
+Nawalparasi,5,Polygon,national-park,Chitwan National Park,chitwan -national -park-
+Nawalparasi,5,Polygon,Nagarpalika,Devchuli,devchuli-nawalparasi
+Nawalparasi,5,Polygon,Nagarpalika,Gaidakot,gaidakot-nawalparasi
+Nawalparasi,5,Polygon,Gaunpalika,Hupsekot,hupsekot-nawalparasi
+Nawalparasi,5,Polygon,Nagarpalika,Kawasoti,kawasoti-nawalparasi
+Nawalparasi,5,Polygon,Nagarpalika,Madhyabindu,madhyabindu-nawalparasi
+Nawalparasi,5,Polygon,Gaunpalika,Palhinandan,palhinandan-nawalparasi
+Nawalparasi,5,Polygon,Gaunpalika,Pratappur,pratappur-nawalparasi
+Nawalparasi,5,Polygon,Nagarpalika,Ramgram,ramgram-nawalparasi
+Nawalparasi,5,Polygon,Gaunpalika,Sarawal,sarawal-nawalparasi
+Nawalparasi,5,Polygon,Nagarpalika,Sunwal,sunwal-nawalparasi
+Nawalparasi,5,Polygon,Gaunpalika,Tribenisusta,tribenisusta-nawalparasi
+Nuwakot,3,Polygon,Nagarpalika,Belkotgadhi,belkotgadhi-nuwakot
+Nuwakot,3,Polygon,Nagarpalika,Bidur,bidur-nuwakot
+Nuwakot,3,Polygon,Gaunpalika,Dupcheshwar,dupcheshwar-nuwakot
+Nuwakot,3,Polygon,Gaunpalika,Kakani,kakani-nuwakot
+Nuwakot,3,Polygon,Gaunpalika,Kispang,kispang-nuwakot
+Nuwakot,3,Polygon,Gaunpalika,Likhu,likhu-nuwakot
+Nuwakot,3,Polygon,Gaunpalika,Meghang,meghang-nuwakot
+Nuwakot,3,Polygon,Gaunpalika,Panchakanya,panchakanya-nuwakot
+Nuwakot,3,Polygon,Gaunpalika,Shivapuri,shivapuri-nuwakot
+Nuwakot,3,Polygon,Gaunpalika,Suryagadhi,suryagadhi-nuwakot
+Nuwakot,3,Polygon,Gaunpalika,Tadi,tadi-nuwakot
+Nuwakot,3,Polygon,Gaunpalika,Tarkeshwar,tarkeshwar-nuwakot
+Okhaldhunga,1,Polygon,Gaunpalika,Champadevi,champadevi-okhaldhunga
+Okhaldhunga,1,Polygon,Gaunpalika,Chisankhugadi,chisankhugadi-okhaldhung
+Okhaldhunga,1,Polygon,Gaunpalika,Khijidemba,khijidemba-okhaldhunga
+Okhaldhunga,1,Polygon,Gaunpalika,Likhu,likhu-okhaldhunga
+Okhaldhunga,1,Polygon,Gaunpalika,Manebhanjyang,manebhanjyang-okhaldhung
+Okhaldhunga,1,Polygon,Gaunpalika,Molung,molung-okhaldhunga
+Okhaldhunga,1,Polygon,Nagarpalika,Siddhicharan,siddhicharan-okhaldhunga
+Okhaldhunga,1,Polygon,Gaunpalika,Sukoshi,sukoshi-okhaldhunga
+Palpa,5,Polygon,Gaunpalika,Bagnaskali,bagnaskali-palpa
+Palpa,5,Polygon,Gaunpalika,Mathagadhi,mathagadhi-palpa
+Palpa,5,Polygon,Gaunpalika,Nisdi,nisdi-palpa
+Palpa,5,Polygon,Gaunpalika,Purbakhola,purbakhola-palpa
+Palpa,5,Polygon,Gaunpalika,Rainadevi Chahara,rainadevi -chahara-palpa
+Palpa,5,Polygon,Gaunpalika,Rambha,rambha-palpa
+Palpa,5,Polygon,Nagarpalika,Rampur,rampur-palpa
+Palpa,5,Polygon,Gaunpalika,Ribdikot,ribdikot-palpa
+Palpa,5,Polygon,Nagarpalika,Tansen,tansen-palpa
+Palpa,5,Polygon,Gaunpalika,Tinau,tinau-palpa
+Panchthar,1,Polygon,Gaunpalika,Falelung,falelung-panchthar
+Panchthar,1,Polygon,Gaunpalika,Galgunanda,galgunanda-panchthar
+Panchthar,1,Polygon,Gaunpalika,Hilihang,hilihang-panchthar
+Panchthar,1,Polygon,Gaunpalika,Kummayak,kummayak-panchthar
+Panchthar,1,Polygon,Gaunpalika,Miklajung,miklajung-panchthar
+Panchthar,1,Polygon,Nagarpalika,Phidim,phidim-panchthar
+Panchthar,1,Polygon,Gaunpalika,Tumbewa,tumbewa-panchthar
+Panchthar,1,Polygon,Gaunpalika,Yangwarak,yangwarak-panchthar
+Parbat,4,Polygon,Gaunpalika,Bihadi,bihadi-parbat
+Parbat,4,Polygon,Nagarpalika,Falebas,falebas-parbat
+Parbat,4,Polygon,Gaunpalika,Jaljala,jaljala-parbat
+Parbat,4,Polygon,Nagarpalika,Kushma,kushma-parbat
+Parbat,4,Polygon,Gaunpalika,Mahashila,mahashila-parbat
+Parbat,4,Polygon,Gaunpalika,Modi,modi-parbat
+Parbat,4,Polygon,Gaunpalika,Painyu,painyu-parbat
+Parsa,2,Polygon,Gaunpalika,Bahudaramai,bahudaramai-parsa
+Parsa,2,Polygon,Gaunpalika,Belwa,belwa-parsa
+Parsa,2,Polygon,Gaunpalika,Bindabasini,bindabasini-parsa
+Parsa,2,Polygon,Upamahanagarpalika,Birgunj,birgunj-parsa
+Parsa,2,Polygon,Gaunpalika,Chhipaharmai,chhipaharmai-parsa
+Parsa,2,Polygon,national-park,Chitwan National Park,chitwan -national -park-
+Parsa,2,Polygon,Gaunpalika,Dhobini,dhobini-parsa
+Parsa,2,Polygon,Gaunpalika,Jagarnathpur,jagarnathpur-parsa
+Parsa,2,Polygon,Gaunpalika,Pakahamainpur,pakahamainpur-parsa
+Parsa,2,Polygon,wildlife-reserve,Parsa,parsa-parsa
+Parsa,2,Polygon,Gaunpalika,Parsagadhi,parsagadhi-parsa
+Parsa,2,Polygon,Gaunpalika,Paterwasugauli,paterwasugauli-parsa
+Parsa,2,Polygon,Nagarpalika,Pokhariya,pokhariya-parsa
+Parsa,2,Polygon,Gaunpalika,Sakhuwa Prasauni,sakhuwa -prasauni-parsa
+Parsa,2,Polygon,Gaunpalika,Subarnapur,subarnapur-parsa
+Pyuthan,5,Polygon,Gaunpalika,Airawati,airawati-pyuthan
+Pyuthan,5,Polygon,Gaunpalika,Gaumukhi,gaumukhi-pyuthan
+Pyuthan,5,Polygon,Gaunpalika,Jhimruk,jhimruk-pyuthan
+Pyuthan,5,Polygon,Gaunpalika,Mallarani,mallarani-pyuthan
+Pyuthan,5,Polygon,Gaunpalika,Mandawi,mandawi-pyuthan
+Pyuthan,5,Polygon,Gaunpalika,Naubahini,naubahini-pyuthan
+Pyuthan,5,Polygon,Nagarpalika,Pyuthan,pyuthan-pyuthan
+Pyuthan,5,Polygon,Gaunpalika,Sarumarani,sarumarani-pyuthan
+Pyuthan,5,Polygon,Nagarpalika,Sworgadwari,sworgadwari-pyuthan
+Ramechhap,3,Polygon,Gaunpalika,Doraamba,doraamba-ramechhap
+Ramechhap,3,Polygon,Gaunpalika,Gokulganga,gokulganga-ramechhap
+Ramechhap,3,Polygon,Gaunpalika,Khadadevi,khadadevi-ramechhap
+Ramechhap,3,Polygon,Gaunpalika,Likhu,likhu-ramechhap
+Ramechhap,3,Polygon,Nagarpalika,Manthali,manthali-ramechhap
+Ramechhap,3,Polygon,Nagarpalika,Ramechhap,ramechhap-ramechhap
+Ramechhap,3,Polygon,Gaunpalika,Sunapati,sunapati-ramechhap
+Ramechhap,3,Polygon,Gaunpalika,Umakunda,umakunda-ramechhap
+Rasuwa,3,Polygon,Gaunpalika,Gosaikunda,gosaikunda-rasuwa
+Rasuwa,3,Polygon,Gaunpalika,Kalika,kalika-rasuwa
+Rasuwa,3,Polygon,Gaunpalika,Naukunda,naukunda-rasuwa
+Rasuwa,3,Polygon,Gaunpalika,Parwatikunda,parwatikunda-rasuwa
+Rasuwa,3,Polygon,Gaunpalika,Uttargaya,uttargaya-rasuwa
+Rautahat,2,Polygon,Gaunpalika,Baudhimal,baudhimal-rautahat
+Rautahat,2,Polygon,Gaunpalika,Birndaban,birndaban-rautahat
+Rautahat,2,Polygon,Nagarpalika,Chandrapur,chandrapur-rautahat
+Rautahat,2,Polygon,Gaunpalika,Dawahi Gonahi,dawahi -gonahi-rautahat
+Rautahat,2,Polygon,Gaunpalika,Durga Bagwati,durga -bagwati-rautahat
+Rautahat,2,Polygon,Gaunpalika,Gadhimai,gadhimai-rautahat
+Rautahat,2,Polygon,Nagarpalika,Garuda,garuda-rautahat
+Rautahat,2,Polygon,Nagarpalika,Gaur,gaur-rautahat
+Rautahat,2,Polygon,Gaunpalika,Gujara,gujara-rautahat
+Rautahat,2,Polygon,Gaunpalika,Ishanath,ishanath-rautahat
+Rautahat,2,Polygon,Gaunpalika,Katahariya,katahariya-rautahat
+Rautahat,2,Polygon,Gaunpalika,Madhav Narayan,madhav -narayan-rautahat
+Rautahat,2,Polygon,Gaunpalika,Maulapur,maulapur-rautahat
+Rautahat,2,Polygon,Gaunpalika,Paroha,paroha-rautahat
+Rautahat,2,Polygon,Gaunpalika,Phatuwa Bijayapur,phatuwa -bijayapur-rauta
+Rautahat,2,Polygon,Gaunpalika,Rajpur,rajpur-rautahat
+Rolpa,5,Polygon,Gaunpalika,Duikholi,duikholi-rolpa
+Rolpa,5,Polygon,Gaunpalika,Lungri,lungri-rolpa
+Rolpa,5,Polygon,Gaunpalika,Madi,madi-rolpa
+Rolpa,5,Polygon,Nagarpalika,Rolpa,rolpa-rolpa
+Rolpa,5,Polygon,Gaunpalika,Runtigadhi,runtigadhi-rolpa
+Rolpa,5,Polygon,Gaunpalika,Sukidaha,sukidaha-rolpa
+Rolpa,5,Polygon,Gaunpalika,Sunchhahari,sunchhahari-rolpa
+Rolpa,5,Polygon,Gaunpalika,Suwarnabati,suwarnabati-rolpa
+Rolpa,5,Polygon,Gaunpalika,Thawang,thawang-rolpa
+Rolpa,5,Polygon,Gaunpalika,Triveni,triveni-rolpa
+Rukum,5,Polygon,Nagarpalika,Aathbiskot,aathbiskot-rukum
+Rukum,5,Polygon,Gaunpalika,Banfikot,banfikot-rukum
+Rukum,5,Polygon,Gaunpalika,Bhume,bhume-rukum
+Rukum,5,Polygon,Nagarpalika,Chaurjahari,chaurjahari-rukum
+Rukum,5,Polygon,hunting-reserve,Dhorpatan Hunting Reserve,dhorpatan -hunting -rese
+Rukum,5,Polygon,Nagarpalika,Musikot,musikot-rukum
+Rukum,5,Polygon,Gaunpalika,Putha Uttarganga,putha -uttarganga-rukum
+Rukum,5,Polygon,Gaunpalika,Sani Veri,sani -veri-rukum
+Rukum,5,Polygon,Gaunpalika,Sisne Gaunpalika,sisne -gaunpalika-rukum
+Rukum,5,Polygon,Gaunpalika,Tribeni,tribeni-rukum
+Rupandehi,5,Polygon,Upamahanagarpalika,Butwal,butwal-rupandehi
+Rupandehi,5,Polygon,Nagarpalika,Devdaha,devdaha-rupandehi
+Rupandehi,5,Polygon,Gaunpalika,Gaidahawa,gaidahawa-rupandehi
+Rupandehi,5,Polygon,Gaunpalika,Kanchan,kanchan-rupandehi
+Rupandehi,5,Polygon,Nagarpalika,Lumbini Sanskritik,lumbini -sanskritik-rupa
+Rupandehi,5,Polygon,Gaunpalika,Marchawari,marchawari-rupandehi
+Rupandehi,5,Polygon,Gaunpalika,Mayadevi,mayadevi-rupandehi
+Rupandehi,5,Polygon,Gaunpalika,Omsatiya,omsatiya-rupandehi
+Rupandehi,5,Polygon,Gaunpalika,Rohini,rohini-rupandehi
+Rupandehi,5,Polygon,Nagarpalika,Sainamaina,sainamaina-rupandehi
+Rupandehi,5,Polygon,Gaunpalika,Sammarimai,sammarimai-rupandehi
+Rupandehi,5,Polygon,Gaunpalika,Sammarimai,sammarimai-rupandehi
+Rupandehi,5,Polygon,Nagarpalika,Siddharthanagar,siddharthanagar-rupandeh
+Rupandehi,5,Polygon,Gaunpalika,Siyari,siyari-rupandehi
+Rupandehi,5,Polygon,Gaunpalika,Suddhodhan,suddhodhan-rupandehi
+Rupandehi,5,Polygon,Nagarpalika,Tillotama,tillotama-rupandehi
+Rupandehi,5,Polygon,,,
+Salyan,6,Polygon,Nagarpalika,Bagchaur,bagchaur-salyan
+Salyan,6,Polygon,Nagarpalika,Bangad Kupinde,bangad -kupinde-salyan
+Salyan,6,Polygon,Gaunpalika,Chhatreswari,chhatreswari-salyan
+Salyan,6,Polygon,Gaunpalika,Darma,darma-salyan
+Salyan,6,Polygon,Gaunpalika,Dhorchaur,dhorchaur-salyan
+Salyan,6,Polygon,Gaunpalika,Kalimati,kalimati-salyan
+Salyan,6,Polygon,Gaunpalika,Kapurkot,kapurkot-salyan
+Salyan,6,Polygon,Gaunpalika,Kumakh Malika,kumakh -malika-salyan
+Salyan,6,Polygon,Nagarpalika,Sarada,sarada-salyan
+Salyan,6,Polygon,Gaunpalika,Tribeni,tribeni-salyan
+Sankhuwasabha,1,Polygon,Gaunpalika,Bhotkhola,bhotkhola-sankhuwasabha
+Sankhuwasabha,1,Polygon,Nagarpalika,Chainpur,chainpur-sankhuwasabha
+Sankhuwasabha,1,Polygon,Gaunpalika,Chichila,chichila-sankhuwasabha
+Sankhuwasabha,1,Polygon,Nagarpalika,Dharmadevi,dharmadevi-sankhuwasabha
+Sankhuwasabha,1,Polygon,Nagarpalika,Khandbari,khandbari-sankhuwasabha
+Sankhuwasabha,1,Polygon,Nagarpalika,Madi,madi-sankhuwasabha
+Sankhuwasabha,1,Polygon,national-park,Makalu,makalu-sankhuwasabha
+Sankhuwasabha,1,Polygon,Gaunpalika,Makalu,makalu-sankhuwasabha
+Sankhuwasabha,1,Polygon,Nagarpalika,Panchakhapan,panchakhapan-sankhuwasab
+Sankhuwasabha,1,Polygon,Gaunpalika,Sabhapokhari,sabhapokhari-sankhuwasab
+Sankhuwasabha,1,Polygon,Gaunpalika,Silichong,silichong-sankhuwasabha
+Saptari,2,Polygon,gaupaika,Belhi Chapena,belhi -chapena-saptari
+Saptari,2,Polygon,Gaunpalika,Bishnupur,bishnupur-saptari
+Saptari,2,Polygon,Nagarpalika,Bode Barsain,bode -barsain-saptari
+Saptari,2,Polygon,Gaunpalika,Chhinnamasta,chhinnamasta-saptari
+Saptari,2,Polygon,Nagarpalika,Dakneshwari,dakneshwari-saptari
+Saptari,2,Polygon,Nagarpalika,Hanumannagar Kankalan,hanumannagar -kankalan-s
+Saptari,2,Polygon,Nagarpalika,Kanchanrup,kanchanrup-saptari
+Saptari,2,Polygon,Nagarpalika,Khadak,khadak-saptari
+Saptari,2,Polygon,"wildlife-reserve
+",Koshi Tappu,koshi -tappu-saptari
+Saptari,2,Polygon,Gaunpalika,Krishna Sawaran,krishna -sawaran-saptari
+Saptari,2,Polygon,Gaunpalika,Mahadewa,mahadewa-saptari
+Saptari,2,Polygon,Nagarpalika,Rajbiraj,rajbiraj-saptari
+Saptari,2,Polygon,Gaunpalika,Rupani,rupani-saptari
+Saptari,2,Polygon,Gaunpalika,Saptakoshi,saptakoshi-saptari
+Saptari,2,Polygon,gaupaika,Shambhunath,shambhunath-saptari
+Saptari,2,Polygon,Nagarpalika,Surunga,surunga-saptari
+Saptari,2,Polygon,Gaunpalika,Tilathi Koiladi,tilathi -koiladi-saptari
+Saptari,2,Polygon,Gaunpalika,Tirahut,tirahut-saptari
+Sarlahi,2,Polygon,Nagarpalika,Bagmati,bagmati-sarlahi
+Sarlahi,2,Polygon,Nagarpalika,Balara,balara-sarlahi
+Sarlahi,2,Polygon,Nagarpalika,Barahathawa,barahathawa-sarlahi
+Sarlahi,2,Polygon,Gaunpalika,Bishnu,bishnu-sarlahi
+Sarlahi,2,Polygon,Gaunpalika,Bramhapuri,bramhapuri-sarlahi
+Sarlahi,2,Polygon,Gaunpalika,Chakraghatta,chakraghatta-sarlahi
+Sarlahi,2,Polygon,Gaunpalika,Chandranagar,chandranagar-sarlahi
+Sarlahi,2,Polygon,Gaunpalika,Dhankaul,dhankaul-sarlahi
+Sarlahi,2,Polygon,Nagarpalika,Gaudeta,gaudeta-sarlahi
+Sarlahi,2,Polygon,Nagarpalika,Haripur,haripur-sarlahi
+Sarlahi,2,Polygon,Nagarpalika,Haripurwa,haripurwa-sarlahi
+Sarlahi,2,Polygon,Nagarpalika,Hariwan,hariwan-sarlahi
+Sarlahi,2,Polygon,Nagarpalika,Ishworpur,ishworpur-sarlahi
+Sarlahi,2,Polygon,Gaunpalika,Kabilasi,kabilasi-sarlahi
+Sarlahi,2,Polygon,Nagarpalika,Lalbandi,lalbandi-sarlahi
+Sarlahi,2,Polygon,Nagarpalika,Malangawa,malangawa-sarlahi
+Sarlahi,2,Polygon,Gaunpalika,Ramnagar,ramnagar-sarlahi
+Sindhuli,3,Polygon,Nagarpalika,Dudhouli,dudhouli-sindhuli
+Sindhuli,3,Polygon,Gaunpalika,Ghyanglekh,ghyanglekh-sindhuli
+Sindhuli,3,Polygon,Gaunpalika,Golanjor,golanjor-sindhuli
+Sindhuli,3,Polygon,Gaunpalika,Hariharpurgadhi,hariharpurgadhi-sindhuli
+Sindhuli,3,Polygon,Nagarpalika,Kamalamai,kamalamai-sindhuli
+Sindhuli,3,Polygon,Gaunpalika,Marin,marin-sindhuli
+Sindhuli,3,Polygon,Gaunpalika,Phikkal,phikkal-sindhuli
+Sindhuli,3,Polygon,Gaunpalika,Sunkoshi,sunkoshi-sindhuli
+Sindhuli,3,Polygon,Gaunpalika,Tinpatan,tinpatan-sindhuli
+Sindhupalchowk,3,Polygon,Gaunpalika,Balefi,balefi-sindhupalchowk
+Sindhupalchowk,3,Polygon,Nagarpalika,Barhabise,barhabise-sindhupalchowk
+Sindhupalchowk,3,Polygon,Gaunpalika,Bhotekoshi,bhotekoshi-sindhupalchow
+Sindhupalchowk,3,Polygon,Nagarpalika,Chautara Sangachokgadhi,chautara -sangachokgadhi
+Sindhupalchowk,3,Polygon,Gaunpalika,Helambu,helambu-sindhupalchowk
+Sindhupalchowk,3,Polygon,Gaunpalika,Indrawati,indrawati-sindhupalchowk
+Sindhupalchowk,3,Polygon,Gaunpalika,Jugal,jugal-sindhupalchowk
+Sindhupalchowk,3,Polygon,Gaunpalika,Lisangkhu Pakhar,lisangkhu -pakhar-sindhu
+Sindhupalchowk,3,Polygon,Nagarpalika,Melamchi,melamchi-sindhupalchowk
+Sindhupalchowk,3,Polygon,Gaunpalika,Panchpokhari Thangpal,panchpokhari -thangpal-s
+Sindhupalchowk,3,Polygon,Gaunpalika,Sunkoshi,sunkoshi-sindhupalchowk
+Sindhupalchowk,3,Polygon,Gaunpalika,Tripurasundari,tripurasundari-sindhupal
+Siraha,2,Polygon,Gaunpalika,Arnama,arnama-siraha
+Siraha,2,Polygon,Gaunpalika,Aurahi,aurahi-siraha
+Siraha,2,Polygon,Gaunpalika,Bariyarpatti,bariyarpatti-siraha
+Siraha,2,Polygon,Gaunpalika,Bhagawanpur,bhagawanpur-siraha
+Siraha,2,Polygon,Gaunpalika,Bishnupur,bishnupur-siraha
+Siraha,2,Polygon,Nagarpalika,Dhangadhimai,dhangadhimai-siraha
+Siraha,2,Polygon,Nagarpalika,Golbazar,golbazar-siraha
+Siraha,2,Polygon,Nagarpalika,Kalyanpur,kalyanpur-siraha
+Siraha,2,Polygon,Gaunpalika,Karjanha,karjanha-siraha
+Siraha,2,Polygon,Nagarpalika,Lahan,lahan-siraha
+Siraha,2,Polygon,Gaunpalika,Laxmi Patari,laxmi -patari-siraha
+Siraha,2,Polygon,Nagarpalika,Mirchaiya,mirchaiya-siraha
+Siraha,2,Polygon,Gaunpalika,Narha,narha-siraha
+Siraha,2,Polygon,Gaunpalika,Nawarajpur,nawarajpur-siraha
+Siraha,2,Polygon,Gaunpalika,Sakhuwa Nankarkatti,sakhuwa -nankarkatti-sir
+Siraha,2,Polygon,Nagarpalika,Siraha,siraha-siraha
+Siraha,2,Polygon,Nagarpalika,Siraha,siraha-siraha
+Siraha,2,Polygon,Nagarpalika,Sukhipur,sukhipur-siraha
+Solukhumbu,1,Polygon,Gaunpalika,Dudhkaushika,dudhkaushika-solukhumbu
+Solukhumbu,1,Polygon,Gaunpalika,Dudhkoshi,dudhkoshi-solukhumbu
+Solukhumbu,1,Polygon,Gaunpalika,Khumbu Pasanglamhu,khumbu -pasanglamhu-solu
+Solukhumbu,1,Polygon,Gaunpalika,Likhupike,likhupike-solukhumbu
+Solukhumbu,1,Polygon,Gaunpalika,Mahakulung,mahakulung-solukhumbu
+Solukhumbu,1,Polygon,Gaunpalika,Nechasalyan,nechasalyan-solukhumbu
+Solukhumbu,1,Polygon,Nagarpalika,Solududhkunda,solududhkunda-solukhumbu
+Solukhumbu,1,Polygon,Gaunpalika,Sotang,sotang-solukhumbu
+Sunsari,1,Polygon,Nagarpalika,Barah,barah-sunsari
+Sunsari,1,Polygon,Gaunpalika,Barju,barju-sunsari
+Sunsari,1,Polygon,Gaunpalika,Bhokraha,bhokraha-sunsari
+Sunsari,1,Polygon,Gaunpalika,Dewanganj,dewanganj-sunsari
+Sunsari,1,Polygon,Upamahanagarpalika,Dharan,dharan-sunsari
+Sunsari,1,Polygon,Nagarpalika,Duhabi,duhabi-sunsari
+Sunsari,1,Polygon,Gaunpalika,Gadhi,gadhi-sunsari
+Sunsari,1,Polygon,Gaunpalika,Harinagara,harinagara-sunsari
+Sunsari,1,Polygon,Nagarpalika,Inaruwa,inaruwa-sunsari
+Sunsari,1,Polygon,Upamahanagarpalika,Itahari,itahari-sunsari
+Sunsari,1,Polygon,Gaunpalika,Koshi,koshi-sunsari
+Sunsari,1,Polygon,"wildlife-reserve
+",Koshi Tappu,koshi -tappu-sunsari
+Sunsari,1,Polygon,Nagarpalika,Ramdhuni,ramdhuni-sunsari
+Surkhet,6,Polygon,Gaunpalika,Barahtaal,barahtaal-surkhet
+Surkhet,6,Polygon,Nagarpalika,Bheriganga,bheriganga-surkhet
+Surkhet,6,Polygon,Nagarpalika,Birendranagar,birendranagar-surkhet
+Surkhet,6,Polygon,Gaunpalika,Chaukune,chaukune-surkhet
+Surkhet,6,Polygon,Gaunpalika,Chingad,chingad-surkhet
+Surkhet,6,Polygon,Nagarpalika,Gurbhakot,gurbhakot-surkhet
+Surkhet,6,Polygon,Nagarpalika,Lekbeshi,lekbeshi-surkhet
+Surkhet,6,Polygon,Nagarpalika,Panchpuri,panchpuri-surkhet
+Surkhet,6,Polygon,Gaunpalika,Simta,simta-surkhet
+Syangja,4,Polygon,Gaunpalika,Aandhikhola,aandhikhola-syangja
+Syangja,4,Polygon,Gaunpalika,Arjunchaupri,arjunchaupri-syangja
+Syangja,4,Polygon,Nagarpalika,Bhirkot,bhirkot-syangja
+Syangja,4,Polygon,Gaunpalika,Biruwa,biruwa-syangja
+Syangja,4,Polygon,Nagarpalika,Chapakot,chapakot-syangja
+Syangja,4,Polygon,Nagarpalika,Galyang,galyang-syangja
+Syangja,4,Polygon,Gaunpalika,Harinas,harinas-syangja
+Syangja,4,Polygon,Gaunpalika,Kaligandagkii,kaligandagkii-syangja
+Syangja,4,Polygon,Gaunpalika,Phedikhola,phedikhola-syangja
+Syangja,4,Polygon,Nagarpalika,Putalibazar,putalibazar-syangja
+Syangja,4,MultiPolygon,Nagarpalika,Waling,waling-syangja
+Tanahun,4,Polygon,Gaunpalika,Aabunkhareni,aabunkhareni-tanahun
+Tanahun,4,Polygon,Gaunpalika,Bandipur,bandipur-tanahun
+Tanahun,4,Polygon,Nagarpalika,Bhanu,bhanu-tanahun
+Tanahun,4,Polygon,Nagarpalika,Bhimad,bhimad-tanahun
+Tanahun,4,Polygon,Nagarpalika,Byas,byas-tanahun
+Tanahun,4,Polygon,Gaunpalika,Devghat,devghat-tanahun
+Tanahun,4,Polygon,Gaunpalika,Ghiring,ghiring-tanahun
+Tanahun,4,Polygon,Gaunpalika,Myagde,myagde-tanahun
+Tanahun,4,Polygon,Gaunpalika,Rhising,rhising-tanahun
+Tanahun,4,Polygon,Nagarpalika,Shuklagandaki,shuklagandaki-tanahun
+Taplejung,1,Polygon,Gaunpalika,Aathrai Tribeni,aathrai -tribeni-tapleju
+Taplejung,1,Polygon,Gaunpalika,Maiwakhola,maiwakhola-taplejung
+Taplejung,1,Polygon,Gaunpalika,Meringden,meringden-taplejung
+Taplejung,1,Polygon,Gaunpalika,Meringden,meringden-taplejung
+Taplejung,1,Polygon,Gaunpalika,Mikwakhola,mikwakhola-taplejung
+Taplejung,1,Polygon,Gaunpalika,Phaktanglung,phaktanglung-taplejung
+Taplejung,1,Polygon,Nagarpalika,Phungling,phungling-taplejung
+Taplejung,1,Polygon,Gaunpalika,Sidingba,sidingba-taplejung
+Taplejung,1,Polygon,Gaunpalika,Sirijangha,sirijangha-taplejung
+Taplejung,1,Polygon,Gaunpalika,Yangwarak,yangwarak-taplejung
+Terathum,1,Polygon,Gaunpalika,Aathrai,aathrai-terathum
+Terathum,1,Polygon,Gaunpalika,Chhathar,chhathar-terathum
+Terathum,1,Polygon,Nagarpalika,Laliguras,laliguras-terathum
+Terathum,1,Polygon,Gaunpalika,Menchhayam,menchhayam-terathum
+Terathum,1,Polygon,Nagarpalika,Myanglung,myanglung-terathum
+Terathum,1,Polygon,Gaunpalika,Phedap,phedap-terathum
+Udayapur,1,Polygon,Nagarpalika,Belaka,belaka-udayapur
+Udayapur,1,Polygon,Nagarpalika,Chaudandigadi,chaudandigadi-udayapur
+Udayapur,1,Polygon,Nagarpalika,Katari,katari-udayapur
+Udayapur,1,Polygon,"wildlife-reserve
+",Koshi Tappu,koshi -tappu-udayapur
+Udayapur,1,Polygon,Gaunpalika,Rautamai,rautamai-udayapur
+Udayapur,1,Polygon,Gaunpalika,Sunkoshi,sunkoshi-udayapur
+Udayapur,1,Polygon,Gaunpalika,Tapli,tapli-udayapur
+Udayapur,1,Polygon,Nagarpalika,Triyuga,triyuga-udayapur
+Udayapur,1,Polygon,Gaunpalika,Udayapurgadhi,udayapurgadhi-udayapur
